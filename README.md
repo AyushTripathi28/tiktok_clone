@@ -14,4 +14,6 @@ First you need to install :
 flutterofficial site: https://flutter.dev/docs/get-started/install
 
 # Final view
-![Screenshot](screenshot.png)
+![Screenshot](3.png)
+![Screenshot](2.png)
+![Screenshot](4.png)
